@@ -146,7 +146,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![avikodrer03's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avikodre03&theme=github	)](https://github.com/avikodre03/github-readme-activity-graph)
 
  
 </details>
@@ -155,9 +155,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avikodrer03&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="avikodre03" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@avikodre03's Holopin board](https://holopin.io/api/user/board?user=avikodre03)](https://holopin.io/@avikodre03)
 	
 </details>
 	
@@ -167,7 +167,7 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+	<a href="https://github.com/avikodrer03/LeetCode_DailyChallenge_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
