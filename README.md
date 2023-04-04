@@ -103,15 +103,12 @@
 
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Cloud & Hosting
- 
-<p align="center">
-  
- 
+ <p align="center">
   &emsp;
     <a href="https://vercel.com/"><img src="https://img.shields.io/badge/vercel-E95420?style=plastic&logo=vercel&logoColor=black"></a>
  
- 
 </p>
+
 
 <br> 
 
