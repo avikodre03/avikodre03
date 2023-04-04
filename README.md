@@ -161,7 +161,7 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<!-- <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
 	
@@ -230,11 +230,12 @@
   </p>
 </div>
 </details>
-
+ -->
 </br></br>
-	
+<!-- 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/avikodre03/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+ -->
