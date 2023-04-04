@@ -110,7 +110,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/vercel-00C7B7.svg?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/vercel-00C7B7.svg?style=plastic&logo=vercel&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
   &emsp;
