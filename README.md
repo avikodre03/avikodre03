@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	![Profile Views](https://komarev.com/ghpvc/?username=Noah-1711) 
+	<img src="https://komarev.com/ghpvc/?username=avikodre03&label=Profile%20views&color=0047AB&style=plastic?" alt="avikodre03" height=25px, width=160px/>
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
