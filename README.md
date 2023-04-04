@@ -107,7 +107,7 @@
 <p align="center">
  
   &emsp;
-    <a href="https://vercel.com/"><img src="https://vercel-00C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
  
 </p>
 
