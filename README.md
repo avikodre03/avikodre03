@@ -151,7 +151,7 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<!-- <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
 	
@@ -159,7 +159,7 @@
 
 [![@avikodre03's Holopin board](https://holopin.io/api/user/board?user=avikodre03)](https://holopin.io/@avikodre03)
 	
-</details>
+</details> -->
 	
 <!-- <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
