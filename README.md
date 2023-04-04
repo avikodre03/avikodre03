@@ -124,7 +124,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avikodre03&theme=tokyonight_duo" alt="avikodre03" /></p>
 
 </details>
   
