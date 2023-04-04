@@ -19,13 +19,12 @@
 
 <br><br>
 
-✔  🧑‍💻 &nbsp; I’m currently working on Web Development using React and Redux.
+✔  🧑‍💻 &nbsp; I’m currently working on Web Development using React and Redux.<br>
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about  `HTML`, `CSS`, `JavaScript`, `React`,`Java`<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](mailto:akodre111@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/avinash-kodre/),If I am alive I will answer within seconds 😉<br>
-✔  🤔 &nbsp; I’m currently open for a new `job opportunity`, this is [[MY RESUME]
-[ (https://drive.google.com/file/d/1QSQ4T7tpPunDcT0Wolx7HnijckS2hvPs/view?usp=drivesd](https://drive.google.com/drive/my-drive)](https://drive.google.com/drive/my-drive)
+✔  🤔 &nbsp; I’m currently open for a new `job opportunity`, this is [[MY RESUME]([https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1FDSD5iW3hA4_ZwHmVAVGbOYy3eYx0_HN/view?usp=sharing))
 
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - :trophy: 2x `ACPC` Finalist.
