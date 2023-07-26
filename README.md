@@ -140,16 +140,6 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![avikodrer03's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avikodre03&theme=github	)](https://github.com/avikodre03/github-readme-activity-graph)
-
- 
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
@@ -157,7 +147,7 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avikodre03&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="avikodre03" /></a> </p>
 
-[!avikodre03 Holopin board](https://holopin.io/api/user/board?user=avikodre03)](https://holopin.io/avikodre03)
+[![@avikodre03's Holopin board](https://holopin.io/api/user/board?user=avikodre03)](https://holopin.io/avikodre03)
 	
 </details>
 
