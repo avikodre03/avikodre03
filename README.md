@@ -27,6 +27,7 @@
 ✔  🤔 &nbsp; I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1FDSD5iW3hA4_ZwHmVAVGbOYy3eYx0_HN/view)
 
 
+
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
