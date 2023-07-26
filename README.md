@@ -137,9 +137,16 @@
 	    <img alt="avikodre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avikodre03&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avikodre03&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="avikodre03" height="230px"/>
 <br/>
-
+ 
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avikodre03&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr>
+</table>
+ <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
@@ -147,21 +154,11 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avikodre03&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="avikodre03" /></a> </p>
 
-[![@avikodre03's Holopin board](https://holopin.io/api/user/board?user=avikodre03)](https://holopin.io/avikodre03)
 	
 </details>
 
 ----
- <details>
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avikodre03&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr>
-</table>
- </p>
- </samp>
- </div>
- </details>
+
 
 </br></br>
 
