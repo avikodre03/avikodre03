@@ -152,5 +152,16 @@
 </details>
 
 ----
+ <details>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avikodre03&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr>
+</table>
+ </p>
+ </samp>
+ </div>
+ </details>
+
 </br></br>
 
