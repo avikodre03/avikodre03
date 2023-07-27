@@ -23,7 +23,7 @@
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about  `HTML`, `CSS`, `JavaScript`, `React`,`Java`<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](mailto:akodre111@gmail.com)<br>
-✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/avinash-kodre/),If I am alive I will answer within seconds 😉<br>
+✔  📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/avinash-kodre/),If I am alive I will answer within seconds😉<br>
 ✔  🤔 &nbsp; I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1MITqCuI8GdGnbaiAq2NgzBw6o2dyREEr/view)
 
 
